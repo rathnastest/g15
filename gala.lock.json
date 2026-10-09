@@ -1,0 +1,74 @@
+{
+  "schemaId": "urn:gala:schema:lock:2.0.0",
+  "schemaVersion": "2.0.0",
+  "repositorySchemaVersion": "2.0.0",
+  "resolvedAt": "2026-09-27T00:00:00.000Z",
+  "resolver": {
+    "package": "@rathnasgala2/publish-action",
+    "version": "0.1.0",
+    "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+    "registry": "https://local-development.invalid/rathnasgala2/"
+  },
+  "schemas": {
+    "package": "@rathnasgala2/schemas",
+    "version": "3.1.0",
+    "integrity": "sha256:33dd0f22fd9aa69829472b1086e0a982e8be81529f360b1f8d30e59fa5666fbb",
+    "registry": "https://registry.npmjs.org/",
+    "contractVersion": "3.0.0",
+    "compatibleWith": "^3.0.0"
+  },
+  "template": {
+    "package": "@rathnasgala2/template",
+    "version": "3.1.0",
+    "integrity": "sha256:2069a279d45b35fefae9f5393719e0bcdb2f594427cbeb545383909791dd42d1",
+    "registry": "https://registry.npmjs.org/",
+    "contractVersion": "3.0.0",
+    "compatibleWith": "^3.0.0",
+    "templateModules": []
+  },
+  "theme": {
+    "package": "@rathnasgala2/theme-default",
+    "version": "3.0.0",
+    "integrity": "sha256:14cd28618f8f726a319782ca3a126845df5472cb76e2f778e7016ba5f1f56e42",
+    "registry": "https://registry.npmjs.org/",
+    "contractVersion": "3.0.0",
+    "compatibleWith": "^3.0.0"
+  },
+  "publisher": [
+    {
+      "package": "@rathnasgala2/publish-action",
+      "version": "0.1.0",
+      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    },
+    {
+      "package": "@rathnasgala2/publish-kernel",
+      "version": "0.1.1",
+      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    },
+    {
+      "package": "@rathnasgala2/adapter-protocol",
+      "version": "0.2.1",
+      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    },
+    {
+      "package": "@rathnasgala2/adapter-github-pages",
+      "version": "0.1.1",
+      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
+      "registry": "https://local-development.invalid/rathnasgala2/",
+      "contractVersion": "2.0.0",
+      "compatibleWith": "^2.0.0"
+    }
+  ],
+  "dependencies": [],
+  "dependencyDag": [],
+  "lockDigest": "sha256:0000000000000000000000000000000000000000000000000000000000000008"
+}
