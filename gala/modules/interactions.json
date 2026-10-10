@@ -3,7 +3,18 @@
   "schemaVersion": "2.0.0",
   "reactions": {
     "enabled": true,
-    "definitions": []
+    "definitions": [
+      {
+        "key": "magical",
+        "label": "Magical",
+        "visual": {
+          "kind": "emoji",
+          "token": "✨"
+        },
+        "order": 1,
+        "enabled": true
+      }
+    ]
   },
   "comments": {
     "enabled": true,
