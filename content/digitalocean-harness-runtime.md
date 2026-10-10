@@ -16,4 +16,6 @@ slug: digitalocean-harness-runtime
 redirects: []
 extensions: {}
 ---
+![Sample image](assets/content-digitalocean-harness-runtime-sample.jpg)
+
 Harness Runtime packages the microVM, coding sandbox, and tools like Chromium needed by agents to do work. Lifecycle APIs allow sessions to remember where they left off, so agents can pause, resume, or branch into new work without losing context, and you stay in control of what it costs.
