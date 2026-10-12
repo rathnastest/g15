@@ -1,44 +1,44 @@
 {
   "schemaId": "urn:gala:schema:lock:2.0.0",
   "schemaVersion": "2.0.0",
-  "repositorySchemaVersion": "2.0.0",
-  "resolvedAt": "2026-09-27T00:00:00.000Z",
+  "repositorySchemaVersion": "3.8.0",
+  "resolvedAt": "2026-10-11T00:00:00.000Z",
   "resolver": {
     "package": "@rathnasgala2/publish-action",
     "version": "0.1.0",
-    "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+    "integrity": "sha256:400b256f8df9b996a0661998a36dece10bcf5ebae5f4a3f30e49658ff884014e",
     "registry": "https://local-development.invalid/rathnasgala2/"
   },
   "schemas": {
     "package": "@rathnasgala2/schemas",
-    "version": "3.1.0",
-    "integrity": "sha256:33dd0f22fd9aa69829472b1086e0a982e8be81529f360b1f8d30e59fa5666fbb",
+    "version": "3.8.0",
+    "integrity": "sha256:f34339d6ddfd8043d902cb54dbdedb37633bcf01e1c28e8c7280e0c86c9e5752",
     "registry": "https://registry.npmjs.org/",
     "contractVersion": "3.0.0",
     "compatibleWith": "^3.0.0"
   },
   "template": {
     "package": "@rathnasgala2/template",
-    "version": "3.1.0",
-    "integrity": "sha256:2069a279d45b35fefae9f5393719e0bcdb2f594427cbeb545383909791dd42d1",
+    "version": "4.0.0",
+    "integrity": "sha256:65e78fe2d28ac731efc262e8307f1531f4373ba20a74cc40823cea001b85b0c8",
     "registry": "https://registry.npmjs.org/",
-    "contractVersion": "3.0.0",
-    "compatibleWith": "^3.0.0",
+    "contractVersion": "4.0.0",
+    "compatibleWith": "^4.0.0",
     "templateModules": []
   },
   "theme": {
     "package": "@rathnasgala2/theme-default",
-    "version": "3.0.0",
-    "integrity": "sha256:14cd28618f8f726a319782ca3a126845df5472cb76e2f778e7016ba5f1f56e42",
+    "version": "4.0.0",
+    "integrity": "sha256:38287d10c8a1a3bd68febe6109d2bcb59daf2f9fee72c65caa8c2d4502d999a0",
     "registry": "https://registry.npmjs.org/",
-    "contractVersion": "3.0.0",
-    "compatibleWith": "^3.0.0"
+    "contractVersion": "4.0.0",
+    "compatibleWith": "^4.0.0"
   },
   "publisher": [
     {
       "package": "@rathnasgala2/publish-action",
       "version": "0.1.0",
-      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+      "integrity": "sha256:400b256f8df9b996a0661998a36dece10bcf5ebae5f4a3f30e49658ff884014e",
       "registry": "https://local-development.invalid/rathnasgala2/",
       "contractVersion": "2.0.0",
       "compatibleWith": "^2.0.0"
@@ -46,7 +46,7 @@
     {
       "package": "@rathnasgala2/publish-kernel",
       "version": "0.1.1",
-      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+      "integrity": "sha256:8725560089293d0e58069eda3636e4ddc5ad1e4a66aba27b76325cc470bcff1a",
       "registry": "https://local-development.invalid/rathnasgala2/",
       "contractVersion": "2.0.0",
       "compatibleWith": "^2.0.0"
@@ -54,7 +54,7 @@
     {
       "package": "@rathnasgala2/adapter-protocol",
       "version": "0.2.1",
-      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+      "integrity": "sha256:adb7e590d3db457c5fa559f2a91e4f52c69d35e2068e6ec0fbbe05b14e669995",
       "registry": "https://local-development.invalid/rathnasgala2/",
       "contractVersion": "2.0.0",
       "compatibleWith": "^2.0.0"
@@ -62,13 +62,13 @@
     {
       "package": "@rathnasgala2/adapter-github-pages",
       "version": "0.1.1",
-      "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-      "registry": "https://local-development.invalid/rathnasgala2/",
+      "integrity": "sha256:912faa0d12d4c9bfe8791b5650c8280b8f4b26a99b89fde73aca3512ff27f99c",
+      "registry": "https://registry.npmjs.org/",
       "contractVersion": "2.0.0",
       "compatibleWith": "^2.0.0"
     }
   ],
   "dependencies": [],
   "dependencyDag": [],
-  "lockDigest": "sha256:0000000000000000000000000000000000000000000000000000000000000008"
+  "lockDigest": "sha256:c25b39859455ff304c4c9a5375f84aad7a8f5cfb7f5b5ef401420cab15c20340"
 }
