@@ -27,9 +27,9 @@
     "templateModules": []
   },
   "theme": {
-    "package": "@rathnasgala2/theme-flashy",
+    "package": "@rathnasgala2/theme-minimal",
     "version": "4.1.0",
-    "integrity": "sha256:21ff5baae2edaf01bdb8028d7c24735d4e63fddc6fe6dd40d4bf882f96841297",
+    "integrity": "sha256:1101af185789ffec2ea433418e7ffa5bb72c4f50672eedf7b775d3e5f73d504c",
     "registry": "https://registry.npmjs.org/",
     "contractVersion": "4.0.0",
     "compatibleWith": "^4.0.0"
@@ -70,5 +70,5 @@
   ],
   "dependencies": [],
   "dependencyDag": [],
-  "lockDigest": "sha256:1ba659eeb198cb64bdbcfbd3692ed827eabab907f5fe854e83971101f5845909"
+  "lockDigest": "sha256:9268233322059e1fc75b54cf33a240411c7f984c19a8bdaabde0404f98e718d1"
 }
